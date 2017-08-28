@@ -1,6 +1,6 @@
 {
 	"name": "Pastebin Instant-Hack",
-	"description": " Pastebin is a website where you can store text online for a set period of time",
+	"description": "Pastebin is a website where you can store text online for a set period of time",
 	"logo": "https://raw.githubusercontent.com/MarvinMenzerath/HastebinPlus/master/static/favicon.png",
 	"keywords": [
 		"node",
